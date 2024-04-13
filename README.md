@@ -5,9 +5,9 @@
 ##### Talk about the structure of the presentation
 
 ## 2. Problem (5 minutes)
-##### Discuss common startup challenges: high operational costs and the need for growth and scalability.
+##### Discuss common startup challenges: the need for growth, scalability & cost reduction solutions.
 
-##### Explain how these issues can hinder a startup's potential to stay afloat and stay competitive.
+##### Explain how these issues can hinder a startup's potential to survive or stay competitive.
 
 ## 3. How and why small startups can use the cloud (7 minutes)
 ##### Introduce cloud engineering as a solution to these problems, mainly cost savings, scalability, and growth.
