@@ -1,6 +1,7 @@
 # Presentation Outline
 
 ## 1. Introduction (2 minutes)
+##### My background and its relevance to this presentation
 ##### Introduce the purpose: Optimizing and growing startups using cloud technologies.
 ##### Talk about the structure of the presentation
 
