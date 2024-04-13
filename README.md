@@ -9,7 +9,7 @@
 
 ##### Explain how these issues can hinder a startup's potential to stay afloat and stay competitive.
 
-### 3. Promise (7 minutes)
+### 3. How and why small startups can use the cloud (7 minutes)
 ##### Introduce cloud engineering as a solution to these problems, mainly cost savings, scalability, and growth.
 
 ##### _Detail specific strategies:_
@@ -24,19 +24,8 @@
 > ##### _implementing cloud services for scaling and reliability_ [Kubernetes ]
 > ##### _implementing cloud services for customer/user customization and personalization_ [AWS Personalize]
 
-##### Choosing the right cloud provider (e.g., Digital Ocean vs. AWS for cost savings).
-##### Utilizing AWS spot instances for further cost reduction.
+###  4. Examples of Actual Businesses Growing and Scaling by Using Cloud Services (8 minutes)
 
-##### Leveraging AWS Lambda for task automation, reducing the need for certain staffing roles.
-
-###  4. Growing and Scaling Using Cloud Services (8 minutes)
-##### _Explain how cloud services support growth, with examples using cloud services like AWS Recognition and AWS Global Accelerator._
-
-##### Explain scalability with Kubernetes, highlighting its reliability in large firms like Morgan Stanley and Tesla.
-
-##### Explain how small startups can benifit from Kubernetes
-
-### 5. Proof (5 minutes)
 #### _Present case studies:_
 
 > ##### Razor: Gaming company, saved 90% costs using spot instances, working with user data sync across devices
