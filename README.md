@@ -1,15 +1,15 @@
-## Presentation Outline
+# Presentation Outline
 
-### 1. Introduction (2 minutes)
+## 1. Introduction (2 minutes)
 ##### Introduce the purpose: Optimizing and growing startups using cloud technologies.
 ##### Talk about the structure of the presentation
 
-### 2. Problem (5 minutes)
+## 2. Problem (5 minutes)
 ##### Discuss common startup challenges: high operational costs and the need for growth and scalability.
 
 ##### Explain how these issues can hinder a startup's potential to stay afloat and stay competitive.
 
-### 3. How and why small startups can use the cloud (7 minutes)
+## 3. How and why small startups can use the cloud (7 minutes)
 ##### Introduce cloud engineering as a solution to these problems, mainly cost savings, scalability, and growth.
 
 ##### _Detail specific strategies:_
@@ -24,7 +24,7 @@
 > ##### _implementing cloud services for scaling and reliability_ [Kubernetes ]
 > ##### _implementing cloud services for customer/user customization and personalization_ [AWS Personalize]
 
-###  4. Examples of Actual Businesses Growing and Scaling by Using Cloud Services (8 minutes)
+##  4. Examples of Actual Businesses Growing and Scaling by Using Cloud Services (8 minutes)
 
 #### _Present case studies:_
 
@@ -44,11 +44,7 @@
 
 > #####  7-11 : Convince store, digital wallet for growth, keep customers locked in 
 
-### 6. Proposition (3 minutes)
-#### _Startup Cloud Audit & Cloud Engineering Plan._
-
-##### Explain how this service will assess and provide tailored cloud solutions to maximize efficiency and cost-effectiveness for startups.
-
-### Closing (Conclusion and Q&A, 3 minutes)
+### 5. Conclusion (3 minutes)
 ##### _Summarize my key points_
-##### _Open the floor for questions._
+##### _Free Startup Cloud Audit & Cloud Engineering Plan._
+##### _questions?_
